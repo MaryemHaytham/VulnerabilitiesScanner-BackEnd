@@ -1,0 +1,14 @@
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\bin\Debug\net7.0\DTO.deps.json
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\bin\Debug\net7.0\DTO.runtimeconfig.json
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\bin\Debug\net7.0\DTO.dll
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\bin\Debug\net7.0\DTO.pdb
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.dll
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\refint\DTO.dll
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.pdb
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\DTO.genruntimeconfig.cache
+D:\webvulenrability project\websec\websec\websecproject\websec be\WebSec\DTO\obj\Debug\net7.0\ref\DTO.dll

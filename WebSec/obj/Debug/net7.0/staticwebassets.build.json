@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CbqHMAX03zwOadcfjrzC97wTT/922XQD8gSV49IHHa4=",
+  "Source": "WebSec",
+  "BasePath": "_content/WebSec",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
